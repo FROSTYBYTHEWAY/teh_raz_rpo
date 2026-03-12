@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/25934803/README.md)
+[README.md](https://github.com/user-attachments/files/25934913/README.md)
 # FlowDesk
 
 Канбан-трекер задач для малого бизнеса. Три колонки, фильтры, дедлайны — всё в одном браузере без сервера.
@@ -27,14 +27,6 @@ python3 -m http.server 8080
 ```
 
 Совместимость: Chrome 90+, Firefox 90+, Edge 90+, Safari 14+
-
----
-
-## Деплой на GitHub Pages
-
-1. Распаковать файлы в корень репозитория
-2. `Settings → Pages → Branch: main → / (root) → Save`
-3. Приложение будет доступно по адресу `https://<username>.github.io/<repo>/`
 
 ---
 
